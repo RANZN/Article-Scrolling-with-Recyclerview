@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Article Scrolling with Recyclerview</string>
+    <string name="s1">See the beautiful oceans of the Pacific coast where the water is so clean you can see the sand</string>
+    <string name="t1">Blue Ocean Waves Crash</string>
+    <string name="s2">Long exposure photography is when you leave the shutter open longer than usual to pick up more light.</string>
+    <string name="t2">Long Exposure River Bridge</string>
+</resources>
