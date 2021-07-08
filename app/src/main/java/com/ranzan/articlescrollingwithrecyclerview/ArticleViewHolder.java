@@ -25,7 +25,7 @@ public class ArticleViewHolder extends RecyclerView.ViewHolder {
     }
 
     public void setData(Article article) {
-        Image.setBackgroundResource(article.getImageId());
+        Image.setImageResource(article.getImageId());
         title.setText(article.getTitle());
         context.setText(article.getContext());
     }
